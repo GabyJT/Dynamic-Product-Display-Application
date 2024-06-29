@@ -1,3 +1,4 @@
+// U54107257
 document.addEventListener('DOMContentLoaded', () => {
     const apiEndpoint = 'https://course-api.com/react-store-products'; // API endpoint for product data
     let products = []; // Array to store product data
